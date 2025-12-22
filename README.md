@@ -1,0 +1,2 @@
+This repository contains only the completed notebooks that were submitted for grading throughout my completion of a M.S. Data Science at Tarleton State University. The extra files and other necessary tools to run the Jupyter notebooks within this repository are not included. 
+All projects were composed in Google Colab, with one project (Wine Quality) being conducted in the RStudio programming language and the three others in Python. Each project contains a small description about the project and if it was a collaborative project between multiple students where relevant. 
